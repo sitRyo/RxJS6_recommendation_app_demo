@@ -1,0 +1,41 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-weight: bold;
+  display: inline-block;
+}
+
+.header {
+  background-color: #ececec;
+  padding: 5px;
+}
+
+.refresh {
+  font-size: 80%;
+  margin-left: 5px;
+}
+
+.suggestions {
+  border: 2px solid #ececec;
+}
+
+li {
+  padding: 5px 5px 5px 0px;
+  list-style-type: none
+}
+
+li img {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+li .username, li .close {
+  display: inline-block;
+  position: relative;
+  bottom: 15px;
+  left: 5px;
+}
