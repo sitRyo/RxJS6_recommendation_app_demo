@@ -1,5 +1,4 @@
 # Github User Recommendation App
-## アプリケーション
 RxJS4で解説されていた[あなたが求めていたリアクティブプログラミング入門](https://ninjinkun.hatenablog.com/entry/introrxja)をRxJS6で書き直したもの。
 
 `webpack + js + RxJS6`
