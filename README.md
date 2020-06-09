@@ -3,7 +3,7 @@ RxJS4で解説されていた[あなたが求めていたリアクティブプ�
 
 `webpack + js + RxJS6`
 
-## webpackを使う理由
+## webpack
 クライアントコードでnodemodulesをrequireできない。
 BrowserfyやRequireJSなどのクライアントでnodeのライブラリを使うパッケージも存在するが、webpackがデファクトスタンダード感あるので採用。
 cdnを使っても良いが、npmからDLする方が個人的に慣れているのでnodemodulesを使う。
